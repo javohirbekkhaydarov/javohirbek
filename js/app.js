@@ -9,8 +9,8 @@ songacha barcha natural sonlarning
  // DAY 1 example 1
 
 // function expression
-const sum = (n) => (n * (n + 1)) / 2;
-console.log(sum(5));
+const som = (n) => (n * (n + 1)) / 2;
+console.log(som(5));
 
 
 
